@@ -1,2 +1,7 @@
 # Java_SeleniumDriver_testing
-Testing on sample Application(Kim shiller) 
+
+Sample Application: 
+KimSchiller (https://www.kimschiller.com/page-object-pattern-tutorial/)
+
+Test Case:
+1) 
